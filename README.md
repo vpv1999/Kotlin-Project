@@ -12,14 +12,19 @@ And, if the 2nd date is older than the 1st date (Eg dt1 = 2,3,2005  and dt2 = 3,
 
 I have also added the screenshots of the above said cases after trying each one separately 
 
-# Case 1 (When the dates are diffetent)
+**The code for the project is available in the folder _src_ with the name _App.kt_**
+
+
+
+
+### Case 1 (When the dates are diffetent)
 
 ![](src/Capture.JPG)
 
-# Case 2 (When the dates are same)
+### Case 2 (When the dates are same)
 
 ![](src/Capture2.JPG)
 
-# Case 3 (When the 2nd date is older than the 2st date)
+### Case 3 (When the 2nd date is older than the 2st date)
 
 ![](src/Capture1.JPG)
