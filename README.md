@@ -10,7 +10,7 @@ Also, if both the input dates are the same, instead of displaying 0 days, "Oops!
 
 And, if the 2nd date is older than the 1st date (Eg dt1 = 2,3,2005  and dt2 = 3,1,2004) then -ve value will not be displayed, instead, "Error!! Please check the dates once again :|" message will be displayed. (Case 3)
 
-I have also added the screenshots of the above said cases 
+I have also added the screenshots of the above said cases after trying each one separately 
 
 # Case 1 (When the dates are diffetent)
 
