@@ -12,7 +12,7 @@ And, if the 2nd date is older than the 1st date (Eg dt1 = 2,3,2005  and dt2 = 3,
 
 I have also added the screenshots of the above said cases after trying each one separately 
 
-**The code for the project is available in the folder _src_ with the name _App.kt_**
+**The code for the project is available in the folder `src` with the name `App.kt`**
 
 
 
