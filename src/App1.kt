@@ -1,4 +1,5 @@
 
+import java.time.LocalTime
 internal object NumberOfDays {
 
     private var monthDays = intArrayOf(31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31)
@@ -38,7 +39,10 @@ internal object NumberOfDays {
     }
 
     @JvmStatic fun main(args:Array<String>) {
-
+        
+         val time = LocalTime.now()
+        println ("The current time is $time ")
+        
         val dt1 = Date(20, 1, 1999)
         val dt2 = Date(21, 5, 2012)
 
