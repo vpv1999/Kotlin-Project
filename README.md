@@ -12,6 +12,8 @@ And, if the 2nd date is older than the 1st date (Eg dt1 = 2,3,2005  and dt2 = 3,
 
 I have also added the screenshots of the above said cases after trying each one separately 
 
+The code will also add the local time to the output using the `LocalTime.Now()` function. 
+
 **The code for the project is available in the folder `src` with the name `App.kt`**
 
 
@@ -19,12 +21,12 @@ I have also added the screenshots of the above said cases after trying each one 
 
 ### Case 1 (When the dates are diffetent)
 
-![](src/Capture.JPG)
+![](src/New%201.JPG)
 
 ### Case 2 (When the dates are same)
 
-![](src/Capture2.JPG)
+![](src/New%202.JPG)
 
 ### Case 3 (When the 2nd date is older than the 2st date)
 
-![](src/Capture1.JPG)
+![](src/New%203.JPG)
