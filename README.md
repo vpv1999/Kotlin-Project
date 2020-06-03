@@ -14,7 +14,7 @@ I have also added the screenshots of the above said cases after trying each one 
 
 The code will also add the local time to the output using the `LocalTime.Now()` function. 
 
-**The code for the project is available in the folder `src` with the name `App.kt`**
+**The code for the project is available in the folder `src` with the name `App1.kt`**
 
 
 
